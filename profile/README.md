@@ -1,12 +1,11 @@
-## Hi there 👋
+👋 Welcome to the home of Docker Hardened Images
 
-<!--
+![catalog](https://github.com/user-attachments/assets/b82f6f1e-9722-455d-862f-cbe5f309c01d)
 
-**Here are some ideas to get you started:**
+# About Docker Hardened Images
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Docker Hardened Images (DHI) are built to meet the highest security and compliance standards. They provide a trusted foundation for containerized workloads by incorporating security best practices from the start.
+
+# Why use Docker Hardened Images?
+
+These images are published with zero-known CVEs, include signed provenance, and come with a complete Software Bill of Materials (SBOM) and VEX metadata. They're designed to secure your software supply chain while fitting seamlessly into existing Docker workflows.
