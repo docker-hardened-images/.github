@@ -1,1 +1,1 @@
-# Docker Hardened Images
+# Docker Hardened Images - Profile
