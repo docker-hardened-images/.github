@@ -1,8 +1,8 @@
+<img width="3168" height="792" alt="dhi-banner" src="https://github.com/user-attachments/assets/d09bf2fc-08b3-4f84-bb19-fcdca7a00626" />
+
 # Docker Hardened Images
 
-![catalog](https://github.com/user-attachments/assets/b82f6f1e-9722-455d-862f-cbe5f309c01d)
-
-## About Docker Hardened Images
+## About
 
 Docker Hardened Images (DHI) are built to meet the highest security and compliance standards. They provide a trusted foundation for containerized workloads by incorporating security best practices from the start.
 
