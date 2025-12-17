@@ -6,11 +6,11 @@
 
 Docker Hardened Images (DHI) are built to meet the highest security and compliance standards. They provide a trusted foundation for containerized workloads by incorporating security best practices from the start.
 
-Head over to our [Discussion forum](https://github.com/docker-hardened-images/discussions) to talk to the product team and discuss all things DHI and supply chain security. 
+Head over to our [Discussion forum](https://github.com/orgs/docker-hardened-images/discussions) to talk to the product team and discuss all things DHI and supply chain security. 
 
 Read more about DHI:
 
- * [Image, Helm Chart and Package Catalog](https://github.com/orgs/docker-hardened-images/discussions)
+ * [Image, Helm Chart and Package Catalog](https://github.com/docker-hardened-images/catalog)
  * Blog [Introducing Docker Hardened Images: Secure, Minimal, and Ready for Production](https://www.docker.com/blog/introducing-docker-hardened-images/)
  * [Product Page](https://www.docker.com/products/hardened-images/)
 
