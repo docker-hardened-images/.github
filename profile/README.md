@@ -4,6 +4,8 @@
 
 Docker Hardened Images (DHI) are built to meet the highest security and compliance standards. They provide a trusted foundation for containerized workloads by incorporating security best practices from the start.
 
+DHI images are available under [Apache License 2.0](https://github.com/docker-hardened-images/catalog/blob/main/LICENSE.txt). 
+
 ## 🎯 Overview
 
 Docker Hardened Images provides a curated collection of container images built with security and minimalism as core principles. Each image is:
@@ -18,7 +20,6 @@ Docker Hardened Images provides a curated collection of container images built w
 
 - **[Catalog](https://github.com/docker-hardened-images/catalog)**: Image, Helm chart, and package definitions
 - **[Discussions](https://github.com/orgs/docker-hardened-images/discussions)**: Community forum and product discussions
-
 - **[Advisories](https://github.com/docker-hardened-images/advisories)**: Security advisories and vulnerability information
 - **[Changelog](https://github.com/docker-hardened-images/log)**: Release notes and update history
 - **[Keyring](https://github.com/docker-hardened-images/keyring)**: Signing keys and verification tools
