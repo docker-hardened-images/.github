@@ -10,7 +10,7 @@ Head over to our [Discussion forum](https://github.com/docker-hardened-images/di
 
 Read more about DHI:
 
- * [Image, Helm Chart and Package Catalog](https://github.com/docker-hardened-images/catalog) 
+ * [Image, Helm Chart and Package Catalog](https://github.com/orgs/docker-hardened-images/discussions)
  * Blog [Introducing Docker Hardened Images: Secure, Minimal, and Ready for Production](https://www.docker.com/blog/introducing-docker-hardened-images/)
  * [Product Page](https://www.docker.com/products/hardened-images/)
 
