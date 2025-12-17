@@ -39,7 +39,7 @@ docker pull dhi.io/python:3.12-alpine3.22
 docker pull dhi.io/postgres:17-debian13
 ```
 
-The entire catalog of images and charts is available at https://dhi.io.
+The entire catalog of images and charts is available at [dhi.io](https://dhi.io).
 
 ## 🔗 Links
 
